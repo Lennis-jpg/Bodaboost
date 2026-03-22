@@ -2,7 +2,7 @@
 
 This repository hosts the source code for the official landing page of BodaPro AI (also known as BodaBoost), an AI-powered mobile application designed to improve the driving behavior of Boda Boda (motorcycle taxi) riders. The application uses a phone's camera for real-time recognition of traffic signs and speed to promote safer driving practices and reduce accidents.
 
-The live website can be viewed at [bodaboost.com](https://bodaboost.com).
+The live website can be viewed at [BodaBoost](https://clerusync.com/BodaBoost/).
 
 ## Key Features
 
